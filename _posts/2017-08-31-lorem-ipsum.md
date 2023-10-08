@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: farconnect tag2 tag3 tag4
+tags: farconnect network tag3 tag4
 ---
 
 ## Lorem Ipsum
