@@ -1,8 +1,8 @@
 farconnect:
   name: farconnect
 
-tag2:
-  name: tag2
+network:
+  name: network
 
 tag3:
   name: tag3
