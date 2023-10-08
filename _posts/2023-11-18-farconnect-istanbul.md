@@ -5,15 +5,6 @@ tags: farconnect
 ---
 
 ## DevConnect Istanbul
-# November, 18th
+​​Join us for a sufficiently decentralized Farcaster meetup in Istanbul on November 18th, 2023. There is a limited number of tickets, available [here](https://lu.ma/d186oht1).
 
-<iframe
-  src="https://lu.ma/embed-checkout/evt-BljreFouL2qyvDC"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+
