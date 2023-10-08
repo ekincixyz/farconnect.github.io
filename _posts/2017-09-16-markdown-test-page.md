@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Istanbul"
+title: "istanbul"
 tags: farconnect
 ---
 
