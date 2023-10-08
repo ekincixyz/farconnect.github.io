@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: network photos
+tags: network
 ---
 
 ## Lorem Ipsum
