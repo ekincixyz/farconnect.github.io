@@ -3,9 +3,9 @@ layout: about
 title: about
 ---
 
-FarConnect is designed to be organized during DevConnect by the Farcaster community for proliferating the Farcaster ecosystem. The first edition of FarConnect is being held during DevConnect Istanbul and organized by [Emre](https://warpcast.com/ekinci.eth), if you would like to contribute in any shape or form please reach out via a direct cast or direct message via telegram (at)ekincixyz.
+FarConnect is designed to be organized during DevConnect by the Farcaster community for proliferating the Farcaster ecosystem. The first edition of FarConnect is being held during DevConnect Istanbul and is being organized by [Emre](https://warpcast.com/ekinci.eth). If you would like to contribute in any shape or form, please reach out via a direct cast or direct message via telegram (at)ekincixyz.
 
-Currently seeking sponsorships to cover expenses of FarConnect Istanbul, for a list of expenses see here.
+Currently seeking sponsorships to cover the remaining expenses of FarConnect Istanbul, for a list of expenses see here.
 
 # Resources
 - Website [GitHub](https://github.com/farconnect/farconnect.github.io)
