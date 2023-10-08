@@ -1,7 +1,12 @@
 ## FarConnect Istanbul expenses
 Planning for 150 pax
 
-## Venue
+# TLDR
+- Expenses: $4500 USD
+- Estimated current budget: $2500
+- Missing budget: $2000
+
+## Expenses
 - Reserving for 150 pax 49.000 TL
 - Sound system + Technician 9.500 TL
 - Sub totaling 58.500 TL
