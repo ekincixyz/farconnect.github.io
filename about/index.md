@@ -8,8 +8,8 @@ FarConnect is designed to be organized during DevConnect by the Farcaster commun
 Currently seeking sponsorships to cover expenses of FarConnect Istanbul, for a list of expenses see here.
 
 # Resources
-Website [GitHub](https://github.com/farconnect/farconnect.github.io)
-FarConnect Safe
+- Website [GitHub](https://github.com/farconnect/farconnect.github.io)
+- FarConnect Safe
 
 # Acknowledgments
 Thank you to [Matthew](https://warpcast.com/matthew) from [Eventcaster](https://eventcaster.xyz/) for the grant and support. Thank you to [Cameron](https://warpcast.com/cameron) from [FarCon](https://farcon.xyz/).
