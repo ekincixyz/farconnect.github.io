@@ -12,7 +12,7 @@ Planning for 150 pax
 - O2: 58.500 TL + 52.000 TL = 110.500 TL (4001,00 USD "")
 - O3: 58.500 TL + 75.000 TL = 133.500 TL (4833,79 USD "")
 
-- + 20% TAX
+- adding 20% VAT
 - O1: 4500 USD
 - O2: 4800 USD
 - O3: 5800 USD
