@@ -4,8 +4,8 @@ farconnect:
 network:
   name: network
 
-tag3:
-  name: tag3
+photos:
+  name: photos
 
 tag4:
   name: tag4
