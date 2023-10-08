@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: farconnect network photos tag4
+tags: farconnect network photos
 ---
 
 ## Lorem Ipsum
