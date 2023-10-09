@@ -5,6 +5,8 @@ Planning for 150 pax
 - Expenses: $4500 USD
 - Estimated current budget: $2500
 - Missing budget: $2000
+- The current most suitable venue is $2.5k for the rental of the venue alone, I am looking for a bar or other alternative that is cheaper or could host us ideally for free
+
 
 ## Expenses
 - Reserving for 150 pax 49.000 TL
@@ -34,4 +36,3 @@ Planning for 150 pax
 - $2300 to hit O2
 - $3300 to hit O3
 
-The current most suitable venue is $2.5k for the rental of the venue alone, I am looking for a bar or other alternative that is cheaper or could host us ideally for free
