@@ -5,7 +5,6 @@ Planning for 150 pax
 - Expenses: $4500 USD
 - Estimated current budget: $2500
 - Missing budget: $2000
-- The current most suitable venue is $2.5k for the rental of the venue alone, I am looking for a bar or other alternative that is cheaper or could host us ideally for free
 
 
 ## Expenses
