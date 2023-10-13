@@ -3,11 +3,11 @@ Planning for 150 pax all prices include 20% VAT
 
 # TLDR
 - $4730 expenses 
-- $2675 estimated current budget
-- $2055 funds missing for option 1
+- $3060 estimated current budget
+- $1670 funds missing for option 1
 
-- $2355 for option 2
-- $3350 for option 3
+- $1970 for option 2
+- $2965 for option 3
 
 
 ## Expenses
@@ -31,6 +31,7 @@ Venue + drinks:
 - $1000 (from typhon.vc)
 - $420 (from punk.domains)
 - $385 (from frens.lol)
+- $385 (from blocto.io)
 
 ## Missing
 - o1: $2860.00
