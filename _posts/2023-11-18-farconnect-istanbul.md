@@ -12,7 +12,7 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
 ## FarConnect Sponsors
 Huge thank you for their financial support!
 
-<a href="https://www.eventcaster.xyz/" target="_blank">Eventcaster</a>
-<a href="https://frens.lol/" target="_blank">Frens</a>
-<a href="https://punk.domains/" target="_blank">Punk Domains</a>
+<a href="https://www.eventcaster.xyz/" target="_blank">Eventcaster</a>  
+<a href="https://frens.lol/" target="_blank">Frens</a>  
+<a href="https://punk.domains/" target="_blank">Punk Domains</a>  
 
