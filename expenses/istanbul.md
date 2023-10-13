@@ -26,9 +26,10 @@ Venue + drinks:
 
 ## Sponsors
 - $870 ($200 from Eventcaster + $670 from the Farcaster EthCC budget)
+- $1000 (from an early stage DeSo VC)
 
 ## Missing
-- o1: $3860.00
-- o2: $4160.00
-- o3: $5155.00
+- o1: $2860.00
+- o2: $3160.00
+- o3: $4155.00
 
