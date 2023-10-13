@@ -27,10 +27,10 @@ Venue + drinks:
 - 03: $6025 or $40.16 per person
 
 ## Sponsors
-- $870 ($200 from Eventcaster + $670 from the Farcaster EthCC budget)
-- $1000 (from an early stage DeSo VC)
-- $420 (from a project tba)
-- $385 (from frens)
+- $870 ($200 from eventcaster.xyz + $670 from the Farcaster EthCC budget)
+- $1000 (from typhon.vc)
+- $420 (from punk.domains)
+- $385 (from frens.lol)
 
 ## Missing
 - o1: $2860.00
