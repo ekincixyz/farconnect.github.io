@@ -3,8 +3,8 @@ Planning for 150 pax all prices include 20% VAT
 
 # TLDR
 - $4730 expenses 
-- $1870 estimated current budget
-- $2860 funds missing 
+- $2290 estimated current budget
+- $2440 funds missing 
 
 
 ## Expenses
@@ -26,6 +26,7 @@ Venue + drinks:
 ## Sponsors
 - $870 ($200 from Eventcaster + $670 from the Farcaster EthCC budget)
 - $1000 (from an early stage DeSo VC)
+- $420 (from a project tba)
 
 ## Missing
 - o1: $2860.00
