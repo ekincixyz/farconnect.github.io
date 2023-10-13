@@ -1,5 +1,5 @@
 ## FarConnect Istanbul expenses
-Planning for 150 pax
+Planning for 150 pax all prices include 20% VAT
 
 # TLDR
 - $4730 expenses 
@@ -7,7 +7,6 @@ Planning for 150 pax
 - $2860 funds missing 
 
 
-Reserving for 150 pax all prices include 20% VAT
 ## Expenses
 Venue:
 - $2115.00 (58.800 TL) for the venue
