@@ -2,36 +2,33 @@
 Planning for 150 pax
 
 # TLDR
-- Expenses: $4500 USD
-- Estimated current budget: $2500
-- Missing budget: $2000
+- Expenses: $4730 USD
+- Estimated current budget: $870
+- Missing budget: $3860
 
 
+Reserving for 150 pax all prices include 20% VAT
 ## Expenses
-- Reserving for 150 pax 49.000 TL
-- Sound system + Technician 9.500 TL
-- Sub totaling 58.500 TL
-- Drinks option1: 2 drinks per person a 300 TL 45.000 TL
-- Drinks option2: 2 hours flatrate a 350 TL 52.000 TL
-- Drinks option3: 4 hours flatrate a 500 TL 75.000 TL
-- O1: 58.500 TL + 45.000 TL = 103.500 TL (3747,54 USD at current exchange rate)
-- O2: 58.500 TL + 52.000 TL = 110.500 TL (4001,00 USD "")
-- O3: 58.500 TL + 75.000 TL = 133.500 TL (4833,79 USD "")
+Venue:
+- $2115.00 (58.800 TL) for the venue
+- $670.00 (18.600 TL) for sound+visual system + technician (mandatory)
+- Sub total: $2785.00
 
-- adding 20% VAT
-- O1: 4500 USD
-- O2: 4800 USD
-- O3: 5800 USD
+Drink options:
+- option 1: $1945.00 (54.000 TL): 2 drinks per person a 300 TL 
+- option 2: $2245.00 (62.400 TL): 2 hours flatrate a 350 TL
+- option 3: $3240.00 (90.000 TL): 4 hours flatrate a 500 TL
 
-## Budget
-- $200 from Eventcaster
-- $670 from the Farcaster EthCC
-- $1634 PurpleDAO proposal tbd planning for 1 ETH if the DAO approves
-  
-- Sub total budget: $2504
+Venue + drinks:
+- o1: $4730 or $31.53 per person
+- o2: $5030 or $33.53 per person
+- 03: $6025 or $40.16 per person
+
+## Sponsors
+- $870 ($200 from Eventcaster + $670 from the Farcaster EthCC budget)
 
 ## Missing
-- $2000 to hit O1
-- $2300 to hit O2
-- $3300 to hit O3
+- o1: $3860.00
+- o2: $4160.00
+- o3: $5155.00
 
