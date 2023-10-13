@@ -2,9 +2,9 @@
 Planning for 150 pax
 
 # TLDR
-- Expenses: $4730 USD
-- Estimated current budget: $870
-- Missing budget: $2860
+- $4730 expenses 
+- $1870 estimated current budget
+- $2860 funds missing 
 
 
 Reserving for 150 pax all prices include 20% VAT
