@@ -34,7 +34,7 @@ Venue + drinks:
 - $385 (from blocto.io)
 
 ## Missing
-- o1: $2860.00
-- o2: $3160.00
-- o3: $4155.00
+- $1670 for option 1
+- $1970 for option 2
+- $2965 for option 3
 
