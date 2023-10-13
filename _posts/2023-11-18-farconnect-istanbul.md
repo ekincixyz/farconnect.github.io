@@ -4,7 +4,7 @@ title: "istanbul"
 tags: farconnect
 ---
 
-# Farconnect Istanbul
+## Farconnect Istanbul
 ​​Join us for a sufficiently decentralized Farcaster meetup in Istanbul on November 18th, 2023. There is a limited number of tickets available [here](https://lu.ma/d186oht1).
 
 Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for decentralized social apps. 
