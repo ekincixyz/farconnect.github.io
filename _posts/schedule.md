@@ -11,5 +11,5 @@ Titles and some speaker handles are tbd
 - Punk.domains lightning talk with Tempe Techie
 - Airstack: AI-powered web3 data APIs for Farcaster with @betashop.eth
 
-Panels
-Web3 social with speakers tbd
+## Panels
+- Web3 social with speakers tbd  
