@@ -12,7 +12,7 @@ Confirmed
 Titles and some speaker handles are tbd
 - Account abstraction & user onboarding with Blocto @tbd 
 - Frens.lol Farcaster client with @jpren.eth
-- Punk.domains lightning talk with Tempe Techie
+- Punk.domains lightning talk with Tempe Techie @tempetechie.eth
 
 ## Panels
 - Web3 social with speakers tbd  
