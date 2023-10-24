@@ -2,39 +2,37 @@
 Planning for 150 pax all prices include 20% VAT
 
 # TLDR
-- $4730 expenses 
-- $3060 estimated current budget
-- $1670 funds missing for option 1
+- $6025 expenses (without food) 
+- $6421 estimated current budget
 
-- $1970 for option 2
-- $2965 for option 3
-
+- seeking $1000 to offer pizza to attendees
 
 ## Expenses
-Venue:
+Venue:  
 - $2115.00 (58.800 TL) for the venue
 - $670.00 (18.600 TL) for sound+visual system + technician (mandatory)
 - Sub total: $2785.00
 
-Drink options:
-- option 1: $1945.00 (54.000 TL): 2 drinks per person a 300 TL 
-- option 2: $2245.00 (62.400 TL): 2 hours flatrate a 350 TL
-- option 3: $3240.00 (90.000 TL): 4 hours flatrate a 500 TL
+Drinks:  
+- $3240.00 (90.000 TL): 4 hours flatrate a 500 TL
 
-Venue + drinks:
-- o1: $4730 or $31.53 per person
-- o2: $5030 or $33.53 per person
-- 03: $6025 or $40.16 per person
+Venue + drinks:  
+- $6025 or $40.16 per person
 
 ## Sponsors
-- $870 ($200 from eventcaster.xyz + $670 from the Farcaster EthCC budget)
-- $1000 (from typhon.vc)
-- $420 (from punk.domains)
-- $385 (from frens.lol)
-- $385 (from blocto.io)
+- $1000 (from typhon.vc) //usdc
+- $420 (from punk.domains) //dai
+- $386 (from frens.lol) //0.25 eth sent as usdc
+- $3,360 (from purple.construction) //2 eth swapped for usdc
+  
+- $5166 in Safe
 
-## Missing
-- $1670 for option 1
-- $1970 for option 2
-- $2965 for option 3
+## To be received to the safe
+- $870 ($200 from eventcaster.xyz + $670 from the Farcaster EthCC budget)
+- $385 (from blocto.io) // expecting funds EOM
+
+Total budget: $6.421
+
+## Food
+- Estimating a budget of $500 - $1000 for pizza.
 
