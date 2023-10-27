@@ -10,7 +10,7 @@ tags: farconnect
 Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for decentralized social apps. 
 
 ## Venue
-**Kolektif House Levent**
+**Kolektif House Levent**  
 Esentepe, Kolektif House, Talatpaşa Cd. No: 5/1, 34394 Şişli/İstanbul, Türkiye  
 
 ## Schedule
