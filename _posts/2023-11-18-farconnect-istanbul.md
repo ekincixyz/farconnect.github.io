@@ -32,7 +32,6 @@ Time in İstanbul, Türkiye (GMT+3)
 - 12am: farewell
 
 
-https://warpcast.com/tempetechie.eth
 ## Farconnect Sponsors
 Huge thank you for their financial support!
 
