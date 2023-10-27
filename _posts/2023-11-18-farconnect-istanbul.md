@@ -19,13 +19,13 @@ Time in İstanbul, Türkiye (GMT+3).
 
 - 7pm: farconnect
 - 8pm: lightning talks (5-10min each)  
-  - Welcome to the swarm with Rafa [@rafa](https://warpcast.com/rafa)
-  - Using AI to build composable Farcaster applications with Jason Goldberg [@betashop.eth](https://warpcast.com/betashop.eth)
-  - Lessons from building a Farcaster-based social app with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)
-  - The power of social graph with Afra [@afra](https://warpcast.com/afra) and Lawson [@lwsnbaker](https://warpcast.com/lwsnbaker)
-  - Account abstraction & user onboarding with Blocto @tbd
-  - Frens.lol Farcaster client with [@jpren.eth](https://warpcast.com/jpren.eth)
-  - Punk.domains lightning talk with Tempe Techie [@tempetechie.eth](https://warpcast.com/tempetechie.eth)
+  - Welcome to the swarm with Rafa [@rafa](https://warpcast.com/rafa)  
+  - Using AI to build composable Farcaster applications with Jason Goldberg [@betashop.eth](https://warpcast.com/betashop.eth)  
+  - Lessons from building a Farcaster-based social app with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)  
+  - The power of social graph with Afra [@afra](https://warpcast.com/afra) and Lawson [@lwsnbaker](https://warpcast.com/lwsnbaker)  
+  - Account abstraction & user onboarding with Blocto @tbd  
+  - Account abstraction when building your crypto consumer app with Brian Li [@bli](https://warpcast.com/bli)  
+  - Punk.domains lightning talk with Tempe Techie [@tempetechie.eth](https://warpcast.com/tempetechie.eth)  
 - 9pm: food
 - 10pm: farconnect
 - 11pm: farconnect
