@@ -17,7 +17,7 @@ Esentepe, Kolektif House, Talatpaşa Cd. No: 5/1, 34394 Şişli/İstanbul, Türk
 Time in İstanbul, Türkiye (GMT+3)
 
 - 7pm: farconnect
-- 8pm: lightning talks and panel 
+- 8pm: lightning talks (5-10min each)  
   - Welcome to the swarm with Rafa [@rafa](https://warpcast.com/rafa)
   - Using AI to build composable Farcaster applications with Jason Goldberg [@betashop.eth](https://warpcast.com/betashop.eth)
   - Lessons from building a Farcaster-based social app with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)
