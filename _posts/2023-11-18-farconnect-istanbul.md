@@ -10,12 +10,12 @@ tags: farconnect
 Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for decentralized social apps. 
 
 ## Venue
-Kolektif House Levent ([google maps](https://maps.app.goo.gl/1XaGFJWxun9KGc7a7))  
-Esentepe, Kolektif House, Talatpaşa Cd. No: 5/1, 34394 Şişli/İstanbul, Türkiye  
-Note: Kolektif House has a number of venues, make sure to go to Levent  
+Kolektif House Levent ([google maps](https://maps.app.goo.gl/1XaGFJWxun9KGc7a7)).  
+Esentepe, Kolektif House, Talatpaşa Cd. No: 5/1, 34394 Şişli/İstanbul, Türkiye.  
+Note: Kolektif House has a number of venues, make sure to go to Levent.  
 
 ## Schedule
-Time in İstanbul, Türkiye (GMT+3)
+Time in İstanbul, Türkiye (GMT+3).
 
 - 7pm: farconnect
 - 8pm: lightning talks (5-10min each)  
