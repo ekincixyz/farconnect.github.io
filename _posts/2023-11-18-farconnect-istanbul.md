@@ -26,6 +26,8 @@ Time in İstanbul, Türkiye (GMT+3)
   - Frens.lol Farcaster client with [@jpren.eth](https://warpcast.com/jpren.eth)
   - Punk.domains lightning talk with Tempe Techie [@tempetechie.eth](https://warpcast.com/tempetechie.eth)
 - 9pm: food
+- 10pm: farconnect
+- 11pm: farconnect
 - 12am: farewell
 
 
