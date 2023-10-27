@@ -7,6 +7,7 @@ Confirmed
 - Welcome to the swarm with Rafa @rafa  
 - Using AI to build composable Farcaster applications with Jason Goldberg @betashop.eth
 - Lessons from building a Farcaster-based social app with billzh.eth @billzh.eth
+- The power of social graph with Afra @afra and Lawson @lwsnbaker
 
 
 Titles and some speaker handles are tbd
