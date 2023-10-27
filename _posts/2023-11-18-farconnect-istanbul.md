@@ -38,6 +38,11 @@ Huge thank you for their financial support!
 <a href="https://punk.domains/" target="_blank">Punk Domains</a>  
 <a href="https://typhon.vc/" target="_blank">Typhon Ventures</a>  
 <a href="https://purple.construction/" target="_blank">Purple DAO</a>  
+<a href="https://firefly.land/" target="_blank">Firefly</a>  
+
+
+
+
 
 
 
