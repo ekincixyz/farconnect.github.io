@@ -35,14 +35,29 @@ Time in İstanbul, Türkiye (GMT+3).
 ## Farconnect Sponsors
 Huge thank you for their financial support!
 
-<a href="https://www.eventcaster.xyz/" target="_blank">Eventcaster</a>  
-<a href="https://frens.lol/" target="_blank">Frens</a>  
-<a href="https://punk.domains/" target="_blank">Punk Domains</a>  
-<a href="https://typhon.vc/" target="_blank">Typhon Ventures</a>  
-<a href="https://purple.construction/" target="_blank">Purple DAO</a>  
-<a href="https://firefly.land/" target="_blank">Firefly</a>  
+<a href="https://www.eventcaster.xyz/" target="_blank" style="font-size: 16px;"><u>Eventcaster</u></a>  
+The Social Calendar built on Farcaster.  
+<a href="https://www.eventcaster.xyz/" target="_blank" style="color: #008000; text-decoration: none;">www.eventcaster.xyz/</a>  
 
+<a href="https://frens.lol/" target="_blank" style="font-size: 16px;"><u>Frens</u></a>  
+A messaging app for onchain friends.  
+<a href="https://frens.lol/" target="_blank" style="color: #008000; text-decoration: none;">www.frens.lol/</a>  
 
+<a href="https://punk.domains/" target="_blank" style="font-size: 16px;"><u></u>Punk Domains</a>  
+Domains for DAOs and web3 communities.  
+<a href="https://punk.domains/" target="_blank" style="color: #008000; text-decoration: none;">www.punk.domains/</a>  
+
+<a href="https://typhon.vc/" target="_blank" style="font-size: 16px;"><u></u>Typhon Ventures</a>  
+Typhon Ventures is an early-stage fund investing in web3.  
+<a href="https://typhon.vc/" target="_blank" style="color: #008000; text-decoration: none;">www.typhon.vc/</a>  
+
+<a href="https://purple.construction/" target="_blank" style="font-size: 16px;"><u></u>Purple DAO</a>  
+Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.  
+<a href="https://purple.construction/" target="_blank" style="color: #008000; text-decoration: none;">www.purple.construction/</a>  
+
+<a href="https://firefly.land/" target="_blank" style="font-size: 16px;"><u>Firefly</u></a>  
+Firefly is a Web3 social aggregator app built by Mask Network.  
+<a href="https://firefly.land/" target="_blank" style="color: #008000; text-decoration: none;">www.firefly.land/</a>  
 
 
 
