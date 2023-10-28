@@ -51,7 +51,7 @@ Domains for DAOs and web3 communities.
 Typhon Ventures is an early-stage fund investing in web3.  
 <a href="https://typhon.vc/" target="_blank" style="color: #008000; text-decoration: none;">www.typhon.vc/</a>  
 
-<a href="https://purple.construction/" target="_blank" style="font-size: 16px;"><u></u>Purple DAO</a>  
+<a href="https://purple.construction/" target="_blank" style="font-size: 16px;"><u></u>Purple</a>  
 Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.  
 <a href="https://purple.construction/" target="_blank" style="color: #008000; text-decoration: none;">www.purple.construction/</a>  
 
