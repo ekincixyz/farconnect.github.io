@@ -24,14 +24,14 @@ Venue + drinks:
 - $420 (from punk.domains) //dai
 - $386 (from frens.lol) //0.25 eth sent as usdc
 - $3,360 (from purple.construction) //2 eth swapped for usdc
-  
-- $5166 in Safe
+- 0.5 ETH (approx $870: $200 from eventcaster.xyz + $670 from the Farcaster EthCC budget) //0.11+0.39 eth
+- $6069 usd value in safe
 
 ## To be received to the safe
-- $870 ($200 from eventcaster.xyz + $670 from the Farcaster EthCC budget)
 - $385 (from blocto.io) // expecting funds EOM
+- $500 (from Firefly)
 
-Total budget: $6.421
+Total budget: $6.957
 
 ## Food
 - Estimating a budget of $500 - $1000 for pizza.
