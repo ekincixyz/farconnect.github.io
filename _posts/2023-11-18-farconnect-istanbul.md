@@ -36,7 +36,7 @@ Time in İstanbul, Türkiye (GMT+3).
 Huge thank you for their financial support!
 
 <a href="https://blocto.io/" target="_blank" style="font-size: 16px;"><u>Blocto</u></a>  
-Aims to make the Web3 community more accessible 
+Aims to make the Web3 community more accessible.  
 <a href="https://www.eventcaster.xyz/" target="_blank" style="color: #008000; text-decoration: none;">www.blocto.io/</a>  
 
 <a href="https://www.eventcaster.xyz/" target="_blank" style="font-size: 16px;"><u>Eventcaster</u></a>  
