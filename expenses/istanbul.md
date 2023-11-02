@@ -30,8 +30,9 @@ Venue + drinks:
 
 ## To be received to the safe
 - $500 (from Firefly)
+- $500 (from Interface)
 
-Total budget: $6.957
+Total budget: $7.457
 
 ## Food
 - Estimating a budget of $500 - $1000 for pizza.
