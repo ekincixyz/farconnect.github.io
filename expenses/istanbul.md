@@ -7,6 +7,8 @@ Planning for 150 pax all prices include 20% VAT
 
 - seeking $1500 to fill budget
 
+overview here: [https://docs.google.com/spreadsheets/d/1Y1nt8BXyskmpWGijN6r0uC8lywUuNCZ6_-dNTCF9a68/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Y1nt8BXyskmpWGijN6r0uC8lywUuNCZ6_-dNTCF9a68/edit?usp=sharing)
+
 ## Expenses
 Venue:  
 - $2115.00 (58.800 TL) for the venue
