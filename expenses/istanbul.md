@@ -2,10 +2,10 @@
 Planning for 150 pax all prices include 20% VAT
 
 # TLDR
-- $6025 expenses (without food) 
-- $6421 estimated current budget
+- $2785 venue (without food) 
+- $6200 food + drinks 
 
-- seeking $1000 to offer pizza to attendees
+- seeking $1500 to fill budget
 
 ## Expenses
 Venue:  
@@ -13,11 +13,13 @@ Venue:
 - $670.00 (18.600 TL) for sound+visual system + technician (mandatory)
 - Sub total: $2785.00
 
-Drinks:  
-- $3240.00 (90.000 TL): 4 hours flatrate a 500 TL
+Drinks + Finger food:  
+- $2500.00 (72.000 TL) Light Finger Food Menu (self service) a 720 TL for 100 units
+- $2600.00 (75.000 TL): 4 hours flatrate a 500 TL
+- Sub total: $6200.00 incl tax
 
 Venue + drinks:  
-- $6025 or $40.16 per person
+- $9000 or $60 per person
 
 ## Sponsors
 - $1000 (from typhon.vc) //usdc
@@ -33,7 +35,5 @@ Venue + drinks:
 - $500 (from Interface)
 
 Total budget: $7.457
-
-## Food
-- Estimating a budget of $500 - $1000 for pizza.
+Missing: $1.500
 
