@@ -25,7 +25,8 @@ Time in İstanbul, Türkiye (GMT+3).
   - The power of social graph with Afra [@afra](https://warpcast.com/afra) and Lawson [@lwsnbaker](https://warpcast.com/lwsnbaker)  
   - Unlocking Web3: The vital role of AA in user onboarding and adoption with Edwin Yen [@edwinyen](https://warpcast.com/edwinyen)
   - AA when building your crypto consumer app with Brian Li [@bli](https://warpcast.com/bli)  
-  - Punk Domains protocol: Domains for DAOs with Tempe Techie [@tempetechie.eth](https://warpcast.com/tempetechie.eth)  
+  - Punk Domains protocol: Domains for DAOs with Tempe Techie [@tempetechie.eth](https://warpcast.com/tempetechie.eth)
+  - A Seamless Multichain future with Jaack [@jaack.eth](https://warpcast.com/jaack.eth)
 - 9pm: food
 - 10pm: farconnect
 - 11pm: farconnect
