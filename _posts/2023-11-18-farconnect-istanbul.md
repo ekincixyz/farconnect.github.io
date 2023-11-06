@@ -59,6 +59,10 @@ Domains for DAOs and web3 communities.
 Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.  
 <a href="https://purple.construction/" target="_blank" style="color: #008000; text-decoration: none;">www.purple.construction/</a>  
 
+<a href="https://superscan.network" target="_blank" style="font-size: 16px;"><u></u>Superscan</a>  
+The Superscan is a unified block explorer for the Superchain, the world's first unified multi-chain block explorer.  
+<a href="https://superscan.network" target="_blank" style="color: #008000; text-decoration: none;">www.superscan.network/</a>  
+
 <a href="https://typhon.vc/" target="_blank" style="font-size: 16px;"><u></u>Typhon Ventures</a>  
 Typhon Ventures is an early-stage fund investing in web3.  
 <a href="https://typhon.vc/" target="_blank" style="color: #008000; text-decoration: none;">www.typhon.vc/</a>  
