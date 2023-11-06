@@ -61,7 +61,7 @@ Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol a
 <a href="https://purple.construction/" target="_blank" style="color: #008000; text-decoration: none;">www.purple.construction/</a>  
 
 <a href="https://superscan.network" target="_blank" style="font-size: 16px;"><u></u>Superscan</a>  
-Superscan is a unified multi-chain block explorer for the Superchain.
+Superscan is a unified multi-chain block explorer for the Superchain.  
 <a href="https://superscan.network" target="_blank" style="color: #008000; text-decoration: none;">www.superscan.network/</a>  
 
 <a href="https://typhon.vc/" target="_blank" style="font-size: 16px;"><u></u>Typhon Ventures</a>  
