@@ -5,7 +5,7 @@ Planning for 150 pax all prices include 20% VAT
 - $2785 venue (without food) 
 - $6200 food + drinks 
 
-- seeking $1500 to fill budget
+- seeking $2.535 to fill budget
 
 overview here: [https://docs.google.com/spreadsheets/d/1Y1nt8BXyskmpWGijN6r0uC8lywUuNCZ6_-dNTCF9a68/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Y1nt8BXyskmpWGijN6r0uC8lywUuNCZ6_-dNTCF9a68/edit?usp=sharing)
 
@@ -30,12 +30,13 @@ Venue + drinks:
 - $3,360 (from purple.construction) //2 eth swapped for usdc
 - 0.5 ETH (approx $870: $200 from eventcaster.xyz + $670 from the Farcaster EthCC budget) //0.11+0.39 eth
 - 0.25 ETH (from Blocto.io $461.91)
-- $6145 usd value in safe
+- $500 (from Firefly.land)  
+- 7073 usd value in safe
 
 ## To be received to the safe
-- $500 (from Firefly)
 - $500 (from Interface)
+- $750 (from superscan.network)
 
-Total budget: $7.457
-Missing: $1.500
+Total budget: $8.323
+Missing: $2.535
 
