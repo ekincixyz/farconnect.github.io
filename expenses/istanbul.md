@@ -2,8 +2,8 @@
 Planning for 150 pax all prices include 20% VAT
 
 # TLDR
-- $2785 venue (without food) 
-- $6200 food + drinks 
+- $2785 venue (without food & drinks) 
+- $8094 food + drinks 
 
 - seeking $2.535 to fill budget
 
@@ -16,8 +16,8 @@ Venue:
 - Sub total: $2785.00
 
 Drinks + Finger food:  
-- $2500.00 (72.000 TL) Light Finger Food Menu (self service) a 720 TL for 100 units
-- $2600.00 (75.000 TL): 4 hours flatrate a 500 TL
+- $4110.00 (117.000 TL) Light Finger Food Menu (self service) a 780 TL for 150 units
+- $2635.00 (75.000 TL): 4 hours flatrate a 500 TL
 - Sub total: $6200.00 incl tax
 
 Venue + drinks:  
