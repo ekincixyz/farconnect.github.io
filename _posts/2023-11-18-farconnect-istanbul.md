@@ -20,7 +20,6 @@ Time in İstanbul, Türkiye (GMT+3).
 - 7pm: farconnect
 - 8pm: lightning talks (5-10min each)  
   - Welcome to the swarm with Rafa [@rafa](https://warpcast.com/rafa)  
-  - Using AI to build composable Farcaster applications with Jason Goldberg [@betashop.eth](https://warpcast.com/betashop.eth)  
   - Lessons from building a Farcaster-based social app with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)  
   - The power of social graph with Afra [@afra](https://warpcast.com/afra) and Lawson [@lwsnbaker](https://warpcast.com/lwsnbaker)  
   - Unlocking Web3: The vital role of AA in user onboarding and adoption with Edwin Yen [@edwinyen](https://warpcast.com/edwinyen)
