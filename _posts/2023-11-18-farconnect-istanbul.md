@@ -20,7 +20,7 @@ Time in İstanbul, Türkiye (GMT+3).
 - 7pm: farconnect
 - 8pm: lightning talks (5-7min each)  
   - Welcome to the swarm with Rafa [@rafa](https://warpcast.com/rafa)  
-  - Lessons from building a Farcaster-based social app with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)
+  - Lessons from building at the intersection of Farcaster and onchain communities with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)
   - Unsolved problems in the Farcaster ecosystem with David Furlong [@df](https://warpcast.com/df)
   - The power of social graph with Afra [@afra](https://warpcast.com/afra) and Lawson [@lwsnbaker](https://warpcast.com/lwsnbaker)  
   - Unlocking Web3: The vital role of AA in user onboarding and adoption with Edwin Yen [@edwinyen](https://warpcast.com/edwinyen)
