@@ -38,7 +38,7 @@ Huge thank you for their financial support!
 
 <a href="https://blocto.io/" target="_blank" style="font-size: 16px;"><u>Blocto</u></a>  
 Aims to make the Web3 community more accessible.  
-<a href="https://www.eventcaster.xyz/" target="_blank" style="color: #008000; text-decoration: none;">www.blocto.io/</a>  
+<a href="https://blocto.io/" target="_blank" style="color: #008000; text-decoration: none;">www.blocto.io/</a>  
 
 <a href="https://www.eventcaster.xyz/" target="_blank" style="font-size: 16px;"><u>Eventcaster</u></a>  
 The Social Calendar built on Farcaster.  
@@ -51,6 +51,10 @@ Firefly is a Web3 social aggregator app built by Mask Network.
 <a href="https://frens.lol/" target="_blank" style="font-size: 16px;"><u>Frens</u></a>  
 A messaging app for onchain friends.  
 <a href="https://frens.lol/" target="_blank" style="color: #008000; text-decoration: none;">www.frens.lol/</a>  
+
+<a href="https://www.interface.social/" target="_blank" style="font-size: 16px;"><u>Interface</u></a>  
+Mobile companion for your Ethereum journey.  
+<a href="https://www.interface.social/" target="_blank" style="color: #008000; text-decoration: none;">www.interface.social/</a> 
 
 <a href="https://punk.domains/" target="_blank" style="font-size: 16px;"><u></u>Punk Domains</a>  
 Domains for DAOs and web3 communities.  
