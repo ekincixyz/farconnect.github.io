@@ -18,7 +18,7 @@ Note: Kolektif House has a number of venues, make sure to go to Levent.
 Time in İstanbul, Türkiye (GMT+3).
 
 - 7pm: farconnect
-- 8pm: lightning talks (5-10min each)  
+- 8pm: lightning talks (5-7min each)  
   - Welcome to the swarm with Rafa [@rafa](https://warpcast.com/rafa)  
   - Lessons from building a Farcaster-based social app with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)
   - Unsolved problems in the Farcaster ecosystem with David Furlong [@df](https://warpcast.com/df)
