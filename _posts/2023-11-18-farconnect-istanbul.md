@@ -27,6 +27,7 @@ Time in İstanbul, Türkiye (GMT+3).
   - AA when building your crypto consumer app with Brian Li [@bli](https://warpcast.com/bli)  
   - Punk Domains protocol: Domains for DAOs with Tekr0x [@Tekr0x.eth](https://warpcast.com/tekr0x.eth)
   - A Seamless Multichain future with Jaack [@jaack.eth](https://warpcast.com/jaack.eth)
+  - Growth Hacking Farcaster: Lessons Learned going from 20 Followers to 1020 in 2 days with Will Robinson [@dangerwillrobin](https://warpcast.com/dangerwillrobin)
 - 9pm: food
 - 10pm: farconnect
 - 11pm: farconnect
