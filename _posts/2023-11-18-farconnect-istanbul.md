@@ -45,6 +45,10 @@ Huge thank you for their financial support!
 Aims to make the Web3 community more accessible.  
 <a href="https://blocto.io/" target="_blank" style="color: #008000; text-decoration: none;">www.blocto.io/</a>  
 
+<a href="https://nouns.build/" target="_blank" style="font-size: 16px;"><u>Nouns BuilderDAO</u></a>  
+The BuilderDAO mission is to develop DAO infrastructure as a public good, enabling decentralized, inclusive, and transparent decision-making processes that empower onchain communities to shape their collective futures.  
+<a href="https://nouns.build/" target="_blank" style="color: #008000; text-decoration: none;">www.nouns.build/</a> 
+
 <a href="https://www.eventcaster.xyz/" target="_blank" style="font-size: 16px;"><u>Eventcaster</u></a>  
 The Social Calendar built on Farcaster.  
 <a href="https://www.eventcaster.xyz/" target="_blank" style="color: #008000; text-decoration: none;">www.eventcaster.xyz/</a>  
