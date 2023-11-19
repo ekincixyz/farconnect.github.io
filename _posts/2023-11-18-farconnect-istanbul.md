@@ -21,17 +21,15 @@ Light finger food will be served from 19:00 onwards, and we will have an open ba
 
 - 7pm: farconnect
 - 8pm: lightning talks (5-7min each)  
-  - Welcome to the swarm with Rafa [@rafa](https://warpcast.com/rafa)  
   - Lessons from building at the intersection of Farcaster and onchain communities with billzh.eth [@billzh.eth](https://warpcast.com/billzh.eth)
   - Unsolved problems in the Farcaster ecosystem with David Furlong [@df](https://warpcast.com/df)
-  - The power of social graph with Afra [@afra](https://warpcast.com/afra) and Lawson [@lwsnbaker](https://warpcast.com/lwsnbaker)  
   - Unlocking Web3: The vital role of AA in user onboarding and adoption with Vivienne [@vvv1324](https://warpcast.com/vvv1324)
-  - AA when building your crypto consumer app with Brian Li [@bli](https://warpcast.com/bli)  
+  - The power of social graph with Afra [@afra](https://warpcast.com/afra)
   - Punk Domains protocol: Domains for DAOs with Tekr0x [@Tekr0x.eth](https://warpcast.com/tekr0x.eth)
+  - AA when building your crypto consumer app with Brian Li [@bli](https://warpcast.com/bli)  
   - A Seamless Multichain future with Jaack [@jaack.eth](https://warpcast.com/jaack.eth)
-  - Daimo: goal-state self custody on Ethereum with Dan Clemens [@dcposch.eth](https://warpcast.com/dcposch.eth) and Nalin Bhardwaj [@nibnalin.eth](https://warpcast.com/nibnalin.eth)
-  - Farcaster Network Analysis with Yassine Landa [@yassinelanda.eth](https://warpcast.com/yassinelanda.eth)
-  - Growth Hacking Farcaster: Lessons Learned going from 20 Followers to 1020 in 2 days with Will Robinson [@dangerwillrobin](https://warpcast.com/dangerwillrobin)
+  - AI Conversational Social Clients with Yassine Landa [@yassinelanda.eth](https://warpcast.com/yassinelanda.eth)
+  - Explore Ethereum today with [@wijuwiju.eth](https://warpcast.com/wijuwiju.eth)
 - 9pm: farconnect
 - 10pm: farconnect
 - 11pm: farconnect
