@@ -2,14 +2,8 @@
 layout: about
 title: about
 ---
-
-    ______                                            __ 
-   / ____/___ _______________  ____  ____  ___  _____/ /_
-  / /_  / __ `/ ___/ ___/ __ \/ __ \/ __ \/ _ \/ ___/ __/
- / __/ / /_/ / /  / /__/ /_/ / / / / / / /  __/ /__/ /_  
-/_/    \__,_/_/   \___/\____/_/ /_/_/ /_/\___/\___/\__/  
-                                                         
-
+█▀▀ ▄▀█ █▀█ █▀▀ █▀█ █▄░█ █▄░█ █▀▀ █▀▀ ▀█▀
+█▀░ █▀█ █▀▄ █▄▄ █▄█ █░▀█ █░▀█ ██▄ █▄▄ ░█░
 ## About
 Farconnect started to proliferate the Farcaster ecosystem. The first edition of Farconnect was held during Devconnect Istanbul and was organized by [Emre](https://warpcast.com/ekinci.eth). If you would like to contribute in any shape or form, please reach out via a direct cast.
 
