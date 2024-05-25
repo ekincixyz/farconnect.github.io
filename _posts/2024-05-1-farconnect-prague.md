@@ -9,10 +9,10 @@ tags: farconnect
 
 Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for decentralized social apps. 
 
-## When
-Saturday, June 1, 2024
-9 AM - 2 PM at Ackee HQs close to ETH Prague venue
-[Join](https://lu.ma/aie3uq47)
+## Farconnect
+- Saturday June 1, 2024
+- 11 AM - 2 PM at Ackee HQs
+- [Join](https://lu.ma/aie3uq47)
 
 <div style="background-color: white; border: 1px solid #707070; border-radius: 8px; padding: 10px; width: 100%; max-width: 400px;">
     <div style="display: flex; align-items: center; border-bottom: 1px solid #e2eaf3; padding-bottom: 5px; margin-bottom: 10px;">
