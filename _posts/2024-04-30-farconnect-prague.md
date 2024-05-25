@@ -24,20 +24,15 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
 
         </div>
     </div>
-    <div style="margin-bottom: 10px;">
-        <input type="text" placeholder="Find a contact..." style="width: calc(100% - 34px); padding: 4px; margin-right: 4px; font-size: 8pt; border: 1px solid #c7c7c7; box-shadow: inset 0 0 3px #0000002a;">
-        <button style="width: 16px; height: 16px; background: url('https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/1131.png') no-repeat center; border: none;"></button>
-        <button style="width: 16px; height: 16px; background: url('https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/1132.png') no-repeat center; border: none;"></button>
-    </div>
     <div>
         <p style="margin: 0 0 5px 0; font-weight: bold;">Onchain (3)</p>
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
-            <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/online.png" alt="Online" style="width: 16px; margin-right: 5px;">
+            <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/busy.png" alt="Online" style="width: 16px; margin-right: 5px;">
             <span style="font-weight: bold;">Emre</span>
             <span style="color: darkgray; margin-left: 5px;">@ekinci.eth</span>
         </div>
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
-            <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/busy.png" alt="Busy" style="width: 16px; margin-right: 5px;">
+            <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/online.png" alt="Busy" style="width: 16px; margin-right: 5px;">
             <span style="font-weight: bold;">Ackee</span>
             <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/595.png" alt="Emoticon" style="margin: 0 3px;">
             <span style="color: darkgray; margin-left: 5px;">@ackee</span>
@@ -49,4 +44,3 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
         </div>
     </div>
 </div>
-</br>
