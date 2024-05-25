@@ -19,8 +19,9 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
         <img src="https://i.imgur.com/TdcAp69.jpg" alt="Profile Picture" style="height: 48px; border-radius: 2px; margin-right: 10px;">
         <div>
             <h3 style="margin: 0; font-size: 10pt; font-weight: 600; color: #333;">Prague</h3>
-            <p style="margin: 0; font-size: 8pt; color: #B9DDE7;">/prague</p>
-            <p style="margin: 0; font-size: 8pt; color: #B9DDE7;">Join us for <a href="https://ethprague.com/" style="color: #0088e4;">Ethereum Prague</a> ethprague.com</p>
+            <p style="margin: 0; font-size: 8pt; color: #000000;">/prague</p>
+            <p style="margin: 0; font-size: 8pt; color: #000000;">Join us for Ethereum Prague <a href="https://ethprague.com/" style="color: #0088e4;">ethprague.com</a></p>
+
         </div>
     </div>
     <div style="margin-bottom: 10px;">
@@ -29,22 +30,22 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
         <button style="width: 16px; height: 16px; background: url('https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/1132.png') no-repeat center; border: none;"></button>
     </div>
     <div>
-        <p style="margin: 0 0 5px 0; font-weight: bold;">Online (4)</p>
+        <p style="margin: 0 0 5px 0; font-weight: bold;">Onchain (3)</p>
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
             <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/online.png" alt="Online" style="width: 16px; margin-right: 5px;">
-            <span style="font-weight: bold;">ThatXPUser</span>
-            <span style="color: darkgray; margin-left: 5px;">i'm sad all day until i get to talk with friends, online friends that is</span>
+            <span style="font-weight: bold;">Emre Ekinci</span>
+            <span style="color: darkgray; margin-left: 5px;">@ekinci.eth</span>
         </div>
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
             <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/busy.png" alt="Busy" style="width: 16px; margin-right: 5px;">
-            <span style="font-weight: bold;">ctaetsh</span>
+            <span style="font-weight: bold;">Ackee</span>
             <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/595.png" alt="Emoticon" style="margin: 0 3px;">
-            <a href="http://notimplemented.lol" style="color: #0088e4;">Black Eyed Peas - I Gotta Feeling</a>
+            <span style="color: darkgray; margin-left: 5px;">@ackee</span>
         </div>
         <div style="display: flex; align-items: center;">
             <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/away.png" alt="Away" style="width: 16px; margin-right: 5px;">
-            <span style="font-weight: bold;">jake</span>
-            <span style="color: darkgray; margin-left: 5px;">working on writing for ao3!!</span>
+            <span style="font-weight: bold;">Teodor</span>
+            <span style="color: darkgray; margin-left: 5px;">@tldrteo.eth</span>
         </div>
     </div>
 </div>
