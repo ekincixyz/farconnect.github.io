@@ -9,6 +9,10 @@ tags: farconnect
 
 Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for decentralized social apps. 
 
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEVGK5FHcExDLYxELJJCLoxDL4hHK5NFLJL//f5DKoo3GYEsCHjFvNOglL/c1epvXamoqKe6AAAABnRSTlOAAEdrior+Vk3zAAABB0lEQVQ4jaWTi46EIAxFWdjppTDq///t0hYF7GRnkmlijfbQh96GnzcWPgViWC3FBYgA3Q1pAL9wAAh4nEAClADZZeFmsQN2frrQATIgQl/0o2cGQSgqkIiuCsyYuwgKhHFy7lJsAESl1mKeIV57mIDyzDlX8c9Ss/gFAPhob0lCuVJzB98ASGyTUD625lwJqnvLK6G8tTp7dUCRoDSSd4F8BuY8GbMHpEY7br7CAdBBzzaKz0B06AjmfYn2VCRUzNMC9B9RdDz7mC8BHYVZ73gNSNxibFOkLpghAUl9/Wxw7JKb1EgzgK7JaBLzgkn/yF6Ax1icBJ41qwLhuK5euu3eunrfbPcfZQQUHa9wuUMAAAAASUVORK5CYII=" alt="W" style="height: 20px; margin-right: 5px;">
+    <span style="font-size: 14px; font-weight: bold;">Farconnect Prague</span>
+</div>
 
 <div style="background-color: white; border: 1px solid #707070; border-radius: 8px; padding: 10px; width: 100%; max-width: 400px;">
     <div style="display: flex; align-items: center; border-bottom: 1px solid #e2eaf3; padding-bottom: 5px; margin-bottom: 10px;">
@@ -20,8 +24,7 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
         <div>
             <h3 style="margin: 0; font-size: 10pt; font-weight: 600; color: #333;">Prague</h3>
             <p style="margin: 0; font-size: 8pt; color: #000000;">/prague</p>
-            <p style="margin: 0; font-size: 8pt; color: #000000;">Join us for Ethereum Prague <a href="https://ethprague.com/" style="color: #0088e4;">ethprague.com</a></p>
-
+            <p style="margin: 0 0 5px 0; font-size: 8pt; color: #000000;">Join us for Ethereum Prague <a href="https://ethprague.com/" style="color: #0088e4;">ethprague.com</a></p>
         </div>
     </div>
     <div>
