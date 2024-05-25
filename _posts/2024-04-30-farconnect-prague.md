@@ -33,7 +33,7 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
         <p style="margin: 0 0 5px 0; font-weight: bold;">Onchain (3)</p>
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
             <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/online.png" alt="Online" style="width: 16px; margin-right: 5px;">
-            <span style="font-weight: bold;">Emre Ekinci</span>
+            <span style="font-weight: bold;">Emre</span>
             <span style="color: darkgray; margin-left: 5px;">@ekinci.eth</span>
         </div>
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
