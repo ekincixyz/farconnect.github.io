@@ -32,7 +32,6 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
         <div style="display: flex; align-items: center; margin-bottom: 5px;">
             <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/status/online.png" alt="Busy" style="width: 16px; margin-right: 5px;">
             <span style="font-weight: bold;">Ackee</span>
-            <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/595.png" alt="Emoticon" style="margin: 0 3px;">
             <span style="color: darkgray; margin-left: 5px;">@ackee</span>
         </div>
         <div style="display: flex; align-items: center;">
