@@ -16,17 +16,17 @@ Wtf is Farcaster? [Farcaster](https://www.farcaster.xyz/) is a protocol for dece
         <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/general/title_text.png" alt="Windows Live Title" style="height: 10px;">
     </div>
     <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <img src="https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/01CAT.jpg" alt="Profile Picture" style="height: 48px; border-radius: 2px; margin-right: 10px;">
+        <img src="https://i.imgur.com/TdcAp69.jpg" alt="Profile Picture" style="height: 48px; border-radius: 2px; margin-right: 10px;">
         <div>
-            <h3 style="margin: 0; font-size: 10pt; font-weight: 600; color: #333;">AndroidWG</h3>
-            <p style="margin: 0; font-size: 8pt; color: #B9DDE7;">(Busy)</p>
-            <p style="margin: 0; font-size: 8pt; color: #B9DDE7;">stayin alive</p>
+            <h3 style="margin: 0; font-size: 10pt; font-weight: 600; color: #333;">Prague</h3>
+            <p style="margin: 0; font-size: 8pt; color: #B9DDE7;">/prague</p>
+            <p style="margin: 0; font-size: 8pt; color: #B9DDE7;">Join us for <a href="https://ethprague.com/" style="color: #0088e4;">Ethereum Prague</a> ethprague.com</p>
         </div>
     </div>
     <div style="margin-bottom: 10px;">
-        <input type="text" placeholder="Find a contact..." style="width: calc(100% - 34px); padding: 4px; margin-right: 4px; font-size: 8pt;">
-        <button style="width: 16px; height: 16px; background: url('https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/1131.png') no-repeat center;"></button>
-        <button style="width: 16px; height: 16px; background: url('https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/1132.png') no-repeat center;"></button>
+        <input type="text" placeholder="Find a contact..." style="width: calc(100% - 34px); padding: 4px; margin-right: 4px; font-size: 8pt; border: 1px solid #c7c7c7; box-shadow: inset 0 0 3px #0000002a;">
+        <button style="width: 16px; height: 16px; background: url('https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/1131.png') no-repeat center; border: none;"></button>
+        <button style="width: 16px; height: 16px; background: url('https://raw.githubusercontent.com/AndroidWG/WLMOnline/master/assets/contacts-window/1132.png') no-repeat center; border: none;"></button>
     </div>
     <div>
         <p style="margin: 0 0 5px 0; font-weight: bold;">Online (4)</p>
