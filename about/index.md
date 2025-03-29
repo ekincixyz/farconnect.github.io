@@ -7,7 +7,7 @@ Farconnect started to proliferate the Farcaster ecosystem. The first edition of 
 
 ## Resources
 - Website [GitHub](https://github.com/farconnect/farconnect.github.io) 
-- farconnect.base.eth `0x052f743301B0e9C77a5378aF11732b8bFfE4ecac` 
+- farconnect.base.eth - [0x052f743301B0e9C77a5378aF11732b8bFfE4ecac](https://basescan.org/address/0x052f743301B0e9C77a5378aF11732b8bFfE4ecac) 
 
 - Prev Farconnect Gnosis Safe is no longer in use; 0x506b...d003. You can find the complete address in the GitHub repo index.md file. 
 
