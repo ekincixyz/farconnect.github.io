@@ -5,8 +5,6 @@ title: about
 ## About
 Farconnect started to proliferate the Farcaster ecosystem. The first edition of Farconnect was held during Devconnect Istanbul and was organized by [Emre](https://warpcast.com/ekinci.eth). If you would like to contribute in any shape or form, please reach out via a direct cast.
 
-Join the Farconnect [channel](https://warpcast.com/~/channel/farconnect)
-
 ## Resources
 - Website [GitHub](https://github.com/farconnect/farconnect.github.io) 
 - farconnect.base.eth `0x052f743301B0e9C77a5378aF11732b8bFfE4ecac` 
