@@ -8,8 +8,10 @@ Farconnect started to proliferate the Farcaster ecosystem. The first edition of 
 Join the Farconnect [channel](https://warpcast.com/~/channel/farconnect)
 
 ## Resources
-- Website [GitHub](https://github.com/farconnect/farconnect.github.io)  
-- Farconnect [Safe](https://etherscan.io/address/0x506bD2a7993fc6e6a5C68e0A4B6AdFfA4539d003)  
+- Website [GitHub](https://github.com/farconnect/farconnect.github.io) 
+- farconnect.base.eth `0x052f743301B0e9C77a5378aF11732b8bFfE4ecac` 
+
+- Prev Farconnect Gnosis Safe is no longer in use; 0x506b...d003. You can find the complete address in the GitHub repo index.md file. 
 
 ## Acknowledgments
 Thank you to [Matthew](https://warpcast.com/matthew) from [Eventcaster](https://eventcaster.xyz/) for the grant and support.  
