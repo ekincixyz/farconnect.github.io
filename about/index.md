@@ -17,4 +17,5 @@ Thank you to [Cameron](https://warpcast.com/cameron) from [FarCon](https://farco
 Thank you to [Antimo](https://warpcast.com/antimofm.eth) for helping with creative direction and multisig support.  
 Thank you to [Bill](https://warpcast.com/billzh.eth) from [Aburra](https://warpcast.com/aburra) for helping with the Nouns BuilderDAO proposal logistics.  
 Thank you to [Akva](https://warpcast.com/akva) from [POAP](https://poap.xyz/) for helping with distributing the Farconnect POAP.
+Thank you to Ev [@tch](https://warpcast.com/tch) and Jam [@jameshih](https://warpcast.com/jameshih) for helping with the organization of farconnect taipei!
 Thank you to all of our sponsors who enabled us to host this event for free.  
