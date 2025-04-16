@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "prague"
-tags: farconnect
+tags: previous
 ---
 
 ## Farconnect Prague
