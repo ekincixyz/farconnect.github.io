@@ -5,7 +5,7 @@ title: crowdfund
 ## Crowdfund
 The first edition of Farconnect was held during Devconnect Istanbul and was organized by [Emre](https://warpcast.com/ekinci.eth) and held on Nov 18, 2023. 
 
-Farconnect Argentina is going to be held on Nov 18, 2025.
+Farconnect [Argentina](https://devconnect.org/) is going to be held on Nov 18, 2025.
 
 I am currently raising Donations via this [Mini App](https://warpcast.com/emr.eth/0x427a47e1).  Please Donate via the MiniApp.  I also appreciate everyone who helps spread the Crowdfund via likes and recasts.  
 
