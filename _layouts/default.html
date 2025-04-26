@@ -12,23 +12,23 @@
 	
 	<!-- Open Graph Meta Tags -->
 	{% if page.image %}
-	<meta property="og:image" content="{{ site.url }}{{ page.image }}">
+	<meta property="og:image" content="https://{{ site.url }}{{ page.image }}">
 	{% else %}
-	<meta property="og:image" content="{{ site.url }}/assets/img/farconnectist.png">
+	<meta property="og:image" content="https://{{ site.url }}/assets/img/farconnectist.png">
 	{% endif %}
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	{% if page.description %}
 	<meta property="og:description" content="{{ page.description }}">
 	{% endif %}
-	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+	<meta property="og:url" content="https://{{ site.url }}{{ page.url }}">
 	<meta property="og:type" content="website">
 	
 	<!-- Twitter Card Tags -->
 	<meta name="twitter:card" content="summary_large_image">
 	{% if page.image %}
-	<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+	<meta name="twitter:image" content="https://{{ site.url }}{{ page.image }}">
 	{% else %}
-	<meta name="twitter:image" content="{{ site.url }}/assets/img/farconnectist.png">
+	<meta name="twitter:image" content="https://{{ site.url }}/assets/img/farconnectist.png">
 	{% endif %}
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	{% if page.description %}
