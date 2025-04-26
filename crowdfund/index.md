@@ -1,5 +1,5 @@
 ---
-layout: crowdfund
+layout: about
 title: crowdfund
 ---
 ## Crowdfund
@@ -26,4 +26,4 @@ I coined it.
 Earn 1% of the supply by being one of the top-10 donors of the MiniApp crowdfund.  
 All fees from the coining will go toward hosting Farconnect meetups.  
 
-https://zora.co/coin/base:0x1d21c8b6d0fd771b1389018a82172def45b35a55?referrer=0x052f743301b0e9c77a5378af11732b8bffe4ecac 
+https://zora.co/coin/base:0x1d21c8b6d0fd771b1389018a82172def45b35a55
