@@ -74,7 +74,7 @@
 		</div>
 		<div class="post_list">
 			{% unless page.date%}
-				{% if page.title == 'about' or page.title == '404...' %}
+				{% if page.title == 'about' or page.title == '404...' or page.title == 'crowdfund' or page.title == 'token' %}
 					<ul>
 						{% for post in site.posts %}
 						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
