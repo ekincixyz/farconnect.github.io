@@ -4,7 +4,7 @@ title: crowdfund
 ---
 ## Crowdfund
 
-!Find an update to the crowdfund [here](https://paragraph.com/@emr/thinking-of-her-old-zora-and-whats-next-with-farconnect).
+!Find an update on the crowdfund [here](https://paragraph.com/@emr/thinking-of-her-old-zora-and-whats-next-with-farconnect).
 
 TLDR
 
